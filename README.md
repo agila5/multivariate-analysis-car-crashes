@@ -8,6 +8,9 @@ and in the supplementary material is summarised in a series of scripts
 which are stored in the folder called `R`. The corresponding data
 objects are saved in the folder named `data`.
 
+You can check the preprint at the following
+[link](https://arxiv.org/abs/2011.12595).
+
 The models were trained using the following packages:
 
 ``` r
