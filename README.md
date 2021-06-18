@@ -4,11 +4,11 @@ analysis of car crashes data considering a spatial network lattice* by
 Andrea Gilardi, Jorge Mateu, Riccardo Borgoni and Robin Lovelace.
 
 The R code used to estimate the statistical models detailed in the paper
-and the supplementary material is summarised in a series of scripts
-saved in the repository called `R`. The required data objects are saved
-in the repositoyr named `data`.
+and in the supplementary material is summarised in a series of scripts
+which are stored in the folder called `R`. The corresponding data
+objects are saved in the folder named `data`.
 
-The models were trained using the following packages and version:
+The models were trained using the following packages:
 
 ``` r
 sessionInfo()
