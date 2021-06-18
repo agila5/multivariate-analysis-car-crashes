@@ -7,6 +7,7 @@ suppressPackageStartupMessages({
   library(INLA)
   library(INLAMSM)
   library(igraph)
+  library(dodgr)
 
   library(conflicted)
 })
