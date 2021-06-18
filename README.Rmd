@@ -1,0 +1,22 @@
+---
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+# load R packages
+source("R/packages.R")
+```
+
+This repository is associated with the paper _Multivariate hierarchical analysis of car crashes data considering a spatial network lattice_ by Andrea Gilardi, Jorge Mateu, Riccardo Borgoni and Robin Lovelace. 
+
+The R code used to estimate the statistical models detailed in the paper and the supplementary material is summarised in a series of scripts saved in the repository called `R`. 
+The required data objects are saved in the repositoyr named `data`. 
+
+The models were trained using the following packages and version: 
+
+```{r}
+sessionInfo()
+```
+
