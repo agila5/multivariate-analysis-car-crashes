@@ -3,13 +3,15 @@ This repository is associated with the paper *Multivariate hierarchical
 analysis of car crashes data considering a spatial network lattice* by
 Andrea Gilardi, Jorge Mateu, Riccardo Borgoni and Robin Lovelace.
 
+The paper was published in the Journal of the Royal Statistical Society:
+Series A (Statistics in Society). It is available open access
+[here](https://doi.org/10.1111/rssa.12823). You can also check the preprint
+at the following [link](https://arxiv.org/abs/2011.12595).
+
 The R code used to estimate the statistical models detailed in the paper
 and in the supplementary material is summarised in a series of scripts
 which are stored in the folder called `R`. The corresponding data
 objects are saved in the folder named `data`.
-
-You can check the preprint at the following
-[link](https://arxiv.org/abs/2011.12595).
 
 The models were trained using the following packages:
 
